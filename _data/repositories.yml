@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Logan-Wallace
+  - Meshinchi-Lab
+  - scriptomics-bio
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Logan-Wallace/Logan-Wallace
+  - Meshinchi-lab/STAR-fusion-NF
