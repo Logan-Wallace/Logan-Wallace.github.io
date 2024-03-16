@@ -14,6 +14,6 @@ profiles:
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Fredd Hutch Cancer Center</p>
+      <p>Fred Hutch Cancer Center</p>
       <p>Seattle, Washington</p>
 ---
