@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Logan-Wallace/Logan-Wallace.github.io//sitemap.xml
+Sitemap: https://Logan-Wallace.github.io/sitemap.xml
