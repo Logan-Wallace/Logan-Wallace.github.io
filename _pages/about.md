@@ -9,6 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Fred Hutch Cancer Center</p>
     <p>Seattle, Washington</p>
 
 news: true # includes a list of news items
