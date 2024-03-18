@@ -4,5 +4,7 @@ github_users:
   - scriptomics-bio
 
 github_repos:
-  - Logan-Wallace/Logan-Wallace
+  - Logan-Wallace/Logan-Wallace.github.io
   - Meshinchi-lab/STAR-fusion-NF
+  - Meshinchi-lab/PacBio_LR_Tools
+  - FredHutch/target-data-viz
