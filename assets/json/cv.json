@@ -20,6 +20,11 @@
         "username": "Logan Wallace",
         "url": "www.linkedin.com/in/logan-wallace-bioinfo"
       }
+      {
+        "network": "GitHub",
+        "username": "Logan-Wallace",
+        "url": "https://github.com/Logan-Wallace"
+      }
     ]
   },
   "Research and Professional Experience": [
@@ -62,58 +67,7 @@
       "startDate": "2014-09",
       "endDate": "2018-12"
     }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
-  "Skills Profile": [
-    {
-      "name": "Biology",
-      "keywords": [
-      ]
-    }, 
-    {
-      "name": "Computation",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "",
-      "keywords": [
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+  ]
       ]
     }
   ]
