@@ -461,7 +461,7 @@ vega-lite:
 jekyll_get_json:
   - data: cv
     json: assets/json/cv.json # it can also be an url
-jsonresume:
+jsoncv:
   - basics
   - work
   - education
