@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "about": {
     "name": "Logan Wallace",
     "label": "Computational Biologist",
     "image": "",
@@ -27,7 +27,7 @@
       }
     ]
   },
-  "Research and Professional Experience": [
+  "experience": [
     {
       "name": "Fred Hutch Cancer Center ",
       "position": "Bioinformatician",
@@ -38,7 +38,7 @@
       "highlights": ["Some highlights"]
     }
   ],
-  "Volunteer Activity": [
+  "volunteer": [
     {
       "organization": "Coding for Cancer",
       "position": "Student Mentor",
@@ -48,7 +48,7 @@
       "summary": "Mentored Seattle area high schools from underrepresented backgrounds in basic R programming and application of new skills to example biological problem."
     }
   ],
-  "Education": [
+  "education": [
     {
       "institution": "University of Oregon",
       "location": "Eugene, Oregon",
