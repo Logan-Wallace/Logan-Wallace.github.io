@@ -27,14 +27,29 @@
   },
   "experience": [
     {
-      "name": "Fred Hutch Cancer Center ",
+      "name": "Fred Hutch Cancer Center",
       "position": "Bioinformatician",
       "url": "https://research.fredhutch.org/meshinchi/en.html",
       "startDate": "Apr-2023",
       "endDate": "Current",
-      "summary": "As a bioinformatician in the Meshinchi lab, I managed the world's largest pediatric AML dataset and co-lead all computational efforts to investigate genomic, transcriptomic and clinical data.",
-      "highlights": ["Some highlights"]
-    }
+      "summary": "As a bioinformatician in the Meshinchi lab, I managed the world's largest pediatric AML dataset and co-lead all computational efforts to investigate genomic, transcriptomic and clinical data. My efforts in the Meshinchi lab included diverse computational work from developing sequencing analysis pipelines, germline and somatic variant calling, survival analysis, data visualization and all other bioinformatics related work in the lab."
+    }, 
+    {
+      "name": "InVivo Biosystems",
+      "position": "Graduate Student Researcher",
+      "url": "https://invivobiosystems.com/",
+      "startDate": "Oct-2022",
+      "endDate": "Feb-2023",
+      "summary": "Working with InVivo Biosystems I outlined and developed a robust pipeline for analysis of C. elegans RNAseq data to identify transcription factors and regulatory pathways activated in response to drug treatment. To accomplish this, we analyzed patterns of gene expression by leveraging publicly available microarray data to identify 'gene modules'. This data analysis was integrated into a formal document for client ready presentation using Rmarkdown."
+    }, 
+    {
+      "name": "Adaptive Biotechnologies",
+      "position": "Research Associate",
+      "url": "https://www.adaptivebiotech.com/",
+      "startDate": "Jan-2019",
+      "endDate": "Sep-2021",
+      "summary": "As a research associate at Adaptive Biotechnologies I was responsible for performing, troubleshooting and refining our TCR characterization assays from genetics material extraction all the way through sequencing. It was here I started using computational tools as I saw the need for automation of a quality control process which was time intensive and error prone that I replaced with a custom Python script."
+    }    
   ],
   "volunteer": [
     {
