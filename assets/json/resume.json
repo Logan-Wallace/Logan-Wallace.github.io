@@ -1,7 +1,7 @@
 {
   "about": {
     "name": "Logan Wallace",
-    "label": "Computational Biologist",
+    "role": "Computational Biologist",
     "image": "",
     "email": "lwallac2@fredhutch.org",
     "phone": "(360) 560-0309",
@@ -28,6 +28,7 @@
   "experience": [
     {
       "name": "Fred Hutch Cancer Center",
+      "location": "Seattle, Washington",
       "position": "Bioinformatician",
       "url": "https://research.fredhutch.org/meshinchi/en.html",
       "startDate": "Apr-2023",
@@ -36,6 +37,7 @@
     }, 
     {
       "name": "InVivo Biosystems",
+      "location": "Eugene, Oregon",
       "position": "Graduate Student Researcher",
       "url": "https://invivobiosystems.com/",
       "startDate": "Oct-2022",
@@ -44,6 +46,7 @@
     }, 
     {
       "name": "Adaptive Biotechnologies",
+      "location": "Seattle, Washington",
       "position": "Research Associate",
       "url": "https://www.adaptivebiotech.com/",
       "startDate": "Jan-2019",
@@ -54,6 +57,7 @@
   "volunteer": [
     {
       "organization": "Coding for Cancer",
+      "location": "Seattle, Washington",
       "position": "Student Mentor",
       "startDate": "Jun-2023",
       "endDate": "Present",
@@ -61,6 +65,7 @@
     }, 
     {
       "organization": "SoundBio Laboratory",
+      "location": "Seattle, Washington",
       "position": "Education Comittee Member",
       "startDate": "Jul-2021",
       "endDate": "Aug-2020",
@@ -68,6 +73,7 @@
     },
     {
       "organization": "Whatcom CHORE",
+      "location": "Bellingham, Washington",
       "position": "Elder Assistant",
       "startDate": "2016",
       "endDate": "2019",
