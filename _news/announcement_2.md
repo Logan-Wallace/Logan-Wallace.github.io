@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Graduation
 date: 2023-12-01
 inline: false
 related_posts: false
